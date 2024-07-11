@@ -1,0 +1,42 @@
+{
+    "indices":[
+        {
+        "id":1,
+        "code":"NIFTY_50",
+        "singleLine_url":"https://docs.google.com/spreadsheets/d/e/2PACX-1vTOqAwwGWH_A34qZBO6ObhJ5e9V-rOHLwPmsBVJZpCymCFqSCu0xX1djVJ71L2T1k2R2vzten45Nnx_/pubchart?oid=1850384003&format=image",
+"upTrend_url":"https://docs.google.com/spreadsheets/d/e/2PACX-1vREU9xAouF06YEjKuYoein-CH1go__H2JYY2ZbkBOTqAN1ngpjxFHuzExXEd68_-yT7EDvu6K90NjsA/pubchart?oid=1288449359&format=image",
+"downTrend_url":"https://docs.google.com/spreadsheets/d/e/2PACX-1vREU9xAouF06YEjKuYoein-CH1go__H2JYY2ZbkBOTqAN1ngpjxFHuzExXEd68_-yT7EDvu6K90NjsA/pubchart?oid=974049458&format=image"
+
+            },
+            {
+                "id":2,
+                "code":"BANKNIFTY",
+                "singleLine_url":"https://docs.google.com/spreadsheets/d/e/2PACX-1vTOqAwwGWH_A34qZBO6ObhJ5e9V-rOHLwPmsBVJZpCymCFqSCu0xX1djVJ71L2T1k2R2vzten45Nnx_/pubchart?oid=1723861323&format=image",
+                "upTrend_url":"https://docs.google.com/spreadsheets/d/e/2PACX-1vRhFIzMfrvmhv4ywVswbKovMDOp8CQgPsrTCcZhuqVCii8wr8PsrPDhpeOpvelHMPj9VGUr0ns-YbCe/pubchart?oid=1256383479&format=image",
+                "downTrend_url":"https://docs.google.com/spreadsheets/d/e/2PACX-1vREU9xAouF06YEjKuYoein-CH1go__H2JYY2ZbkBOTqAN1ngpjxFHuzExXEd68_-yT7EDvu6K90NjsA/pubchart?oid=974049458&format=image"
+                
+            }
+    ],
+    "stocks":[
+        {
+            "id":1,
+"code":"SBIN",
+"singleLine_url":"https://docs.google.com/spreadsheets/d/e/2PACX-1vREU9xAouF06YEjKuYoein-CH1go__H2JYY2ZbkBOTqAN1ngpjxFHuzExXEd68_-yT7EDvu6K90NjsA/pubchart?oid=1043260088&format=image",
+"upTrend_url":"https://docs.google.com/spreadsheets/d/e/2PACX-1vREU9xAouF06YEjKuYoein-CH1go__H2JYY2ZbkBOTqAN1ngpjxFHuzExXEd68_-yT7EDvu6K90NjsA/pubchart?oid=1288449359&format=image",
+"downTrend_url":"https://docs.google.com/spreadsheets/d/e/2PACX-1vREU9xAouF06YEjKuYoein-CH1go__H2JYY2ZbkBOTqAN1ngpjxFHuzExXEd68_-yT7EDvu6K90NjsA/pubchart?oid=974049458&format=image",
+"buy_trend":false,
+"sell_trend":true
+    },
+    {
+        "id":2,
+        "code":"TATAMOTORS",
+        "singleLine_url":"https://docs.google.com/spreadsheets/d/e/2PACX-1vRhFIzMfrvmhv4ywVswbKovMDOp8CQgPsrTCcZhuqVCii8wr8PsrPDhpeOpvelHMPj9VGUr0ns-YbCe/pubchart?oid=1850700488&format=image",
+"upTrend_url":"https://docs.google.com/spreadsheets/d/e/2PACX-1vRhFIzMfrvmhv4ywVswbKovMDOp8CQgPsrTCcZhuqVCii8wr8PsrPDhpeOpvelHMPj9VGUr0ns-YbCe/pubchart?oid=1256383479&format=image",
+"downTrend_url":"https://docs.google.com/spreadsheets/d/e/2PACX-1vREU9xAouF06YEjKuYoein-CH1go__H2JYY2ZbkBOTqAN1ngpjxFHuzExXEd68_-yT7EDvu6K90NjsA/pubchart?oid=974049458&format=image",
+"buy_trend":true,
+"sell_trend":false
+
+    }
+]
+    
+}
